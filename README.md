@@ -3,11 +3,11 @@
 기획 및 디자인부터 마크업(프로그래밍)까지 100% 기여하였습니다. <br>
 
 ## 🔗 URL
-* 기업형 웹(Mycom)
+* 기업형 웹 프로젝트(Mycom)
     + https://hj3296000.mycafe24.com/
-* 반응형 웹(Apple)
+* 반응형 웹 프로젝트(Apple)
     + https://hj3296000.mycafe24.com/media/
-* React SPA(Korail)
+* React SPA 프로젝트(Korail)
     + https://react-project-7fe1c.web.app/
 * 프로필 및 포트폴리오 링크
     + https://hj3296000.mycafe24.com/profile/
